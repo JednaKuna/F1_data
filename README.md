@@ -9,4 +9,4 @@ Graps are interactive and for now they do not display in static Notebooks, I am 
 # Temporary links
 
 https://www.kaggle.com/code/karlou/perezperformance
-https://www.kaggle.com/code/karlou/notebooke93279e394
+https://www.kaggle.com/code/karlou/pitstops
